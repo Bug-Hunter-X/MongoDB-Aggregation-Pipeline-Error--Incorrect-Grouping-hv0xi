@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for a common MongoDB aggregation pipeline error. The bug arises from incorrect usage of the $group operator, leading to unexpected results. The solution demonstrates the correct way to use the $group operator to achieve the desired aggregation.
